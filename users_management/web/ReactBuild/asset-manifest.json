@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./ReactBuild/static/css/main.01144e85.chunk.css",
+    "main.js": "./ReactBuild/static/js/main.ec230315.chunk.js",
+    "main.js.map": "./ReactBuild/static/js/main.ec230315.chunk.js.map",
+    "runtime-main.js": "./ReactBuild/static/js/runtime-main.1dc7db5a.js",
+    "runtime-main.js.map": "./ReactBuild/static/js/runtime-main.1dc7db5a.js.map",
+    "static/css/2.47e06e2e.chunk.css": "./ReactBuild/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4a9c0385.chunk.js": "./ReactBuild/static/js/2.4a9c0385.chunk.js",
+    "static/js/2.4a9c0385.chunk.js.map": "./ReactBuild/static/js/2.4a9c0385.chunk.js.map",
+    "index.html": "./ReactBuild/index.html",
+    "precache-manifest.f8a79841791241270371e58b4d7ec246.js": "./ReactBuild/precache-manifest.f8a79841791241270371e58b4d7ec246.js",
+    "service-worker.js": "./ReactBuild/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "./ReactBuild/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.01144e85.chunk.css.map": "./ReactBuild/static/css/main.01144e85.chunk.css.map",
+    "static/js/2.4a9c0385.chunk.js.LICENSE.txt": "./ReactBuild/static/js/2.4a9c0385.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc7db5a.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4a9c0385.chunk.js",
+    "static/css/main.01144e85.chunk.css",
+    "static/js/main.ec230315.chunk.js"
+  ]
+}

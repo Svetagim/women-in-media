@@ -24,8 +24,6 @@
         response.sendRedirect("LoginPage.jsp");
         return;
       }
-//      response.sendRedirect("UserLogged.jsp");
-//      return;
     }
     response.sendRedirect("LoginPage.jsp");
   %>

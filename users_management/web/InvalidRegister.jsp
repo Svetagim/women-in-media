@@ -7,19 +7,19 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>
-    <meta http-equiv = "refresh" content="5;LoginPage.jsp" charset="windows-1255">
-    <title>invalid register</title>
-</head>
-<body>
-<div>
-    Sorry, you might have few problems.<br>
-
-    Please try to choose another UserName because it already exists.<br>
-
-    Or<br>
-
-    You have to fill all the fields needed to register.
-</div>
-</body>
+    <head>
+        <meta http-equiv = "refresh" content="5;LoginPage.jsp" charset="windows-1255">
+        <title>invalid register</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <h2 class="title">
+                מצטערים, אך ישנה בעיה<br>
+                שם המשתמש כבר קיים<br>
+                או שלא כל השדות מולאו באופן תקין
+            </h2>
+        </div>
+    </body>
 </html>

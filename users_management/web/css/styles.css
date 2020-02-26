@@ -1,0 +1,56 @@
+#wrapper{
+    background-color: #ffcf00;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    margin: 0 auto;
+}
+
+.imgLogin{
+    height:380px;
+    width:800px;
+    position: absolute;
+}
+
+input{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.card-header, label{
+    text-align: right;
+}
+
+input{
+    display: flex;
+}
+
+.login{
+    margin-right: 350px;
+    z-index: 1;
+}
+
+.registration{
+    margin-left: 350px;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.inputCards{
+    background-color: #ffcf00;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+
