@@ -44,7 +44,7 @@ class Cloud extends Component {
                    {dataRaw.map((value, index) => {
                         return (
                           <div className="tag-item-wrapper">
-                           <div style={{ fontSize: value[1]*5 }}>{value[0]}</div>
+                           <div style={{ fontSize: value[1]*7 }}>{value[0]}</div>
                           <div className="tag-item-tooltip">{value[1]}</div>
                         </div>
                         )
